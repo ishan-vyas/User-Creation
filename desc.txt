@@ -1,0 +1,19 @@
+In this project I explore new topics I learned about react.
+
+This was a test project to test the learnings of my react course.
+
+Recap includes
+
+1) Basics of react, and understanding of components
+
+2) ReactDom and its reponsibiltiy to display our app to web
+
+3) useState hook for state management
+
+4) Dynamic list displays
+
+5) Props to control parent and child interaction
+
+and much more
+
+check out the project source code and the project itself to learn more.
